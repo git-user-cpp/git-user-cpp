@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 ## 🧐 About me
 
+🛰️ I love science and everything related to it.
+
 ✌️ I have been doing programming for about 2 years, trying various embedded technologies
 
 🎓 I have experience in creating primitive databases in C++ and creating various console applications for Linux OS
