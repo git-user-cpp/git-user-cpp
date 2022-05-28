@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚠️ ***Welcome to the space for Linux users*** ⚠️
+⚠️ 🐧 ***Welcome to the space for Linux users*** 🐧 ⚠️
 
-## :electron: Here you can find some console applications written in C, C++ and NASM for Linux OS :electron:
+## :electron: Here you can find some useful console applications written in C, C++ and NASM for Linux OS :electron:
 
 👩‍💻 Some apps are currently in development ⚡
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 🛰️ I love science and everything related to it.
 
-✌️ I have been doing programming for about 2 years, trying various embedded technologies
+✌️ I have been doing programming for about 2 years, trying various technologies
 
 🎓 I have experience in creating primitive databases in C++ and creating various console applications for Linux OS
 
@@ -35,7 +35,10 @@ Here are some ideas to get you started:
 
 - [x] Enter the university
 - [x] Learn the basics of C, C++, NASM
+- [x] Learn C++ STL
+- [x] Make a few small projects in C++
+- [ ] Make a few small projects in C
 - [ ] Try embedded systems programming
-- [ ] Get programming experience
 - [ ] Find a job
-- [ ] Create a useful open source project for Linux OS
+- [ ] Get professional programming experience
+- [ ] Create a useful large open source project for Linux OS
