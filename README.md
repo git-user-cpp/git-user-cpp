@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 
 - [x] Enter the university
 - [x] Learn the basics of C, C++, NASM
+- [x] Learn OOP and ADT
 - [x] Learn C++ STL
 - [x] Make a few small projects in C++
 - [ ] Make a few small projects in C
