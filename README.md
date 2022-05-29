@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚠️ 🐧 ***Welcome to the space for Linux users*** 🐧 ⚠️
+✔️ ***Welcome to the space for Linux users*** ✔️
 
 ## :electron: Here you can find some useful console applications written in C, C++ and NASM for Linux OS :electron:
 
