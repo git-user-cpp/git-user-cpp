@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - [x] Learn OOP and ADT
 - [x] Learn C++ STL
 - [x] Make a few small projects in C++
-- [ ] Make a few small projects in C
+- [x] Make a few small projects in C
 - [ ] Try embedded systems programming
 - [ ] Find a job
 - [ ] Get professional programming experience
