@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 ## 💪 My goals
 
 - [x] Enter the university
-- [x] Learn the basics of C, C++, NASM
-- [x] Learn OOP and ADT
-- [x] Learn C++ STL
+- [ ] Learn the basics of C, C++, NASM
+- [ ] Learn OOP and ADT
+- [ ] Learn C++ STL
 - [x] Make a few small projects in C++
 - [x] Make a few small projects in C
 - [ ] Try embedded systems programming
