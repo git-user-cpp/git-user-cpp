@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 👩‍💻 I’m currently working on my console programs, which will be published soon
 
+<!--
 ## 💪 My goals
 
 - [x] Enter the university
@@ -43,3 +44,4 @@ Here are some ideas to get you started:
 - [ ] Find a job
 - [ ] Get professional programming experience
 - [ ] Create a useful large open source project for Linux OS
+-->
