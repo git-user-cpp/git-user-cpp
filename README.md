@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🌠 ***Welcome to the space for Linux users*** 🌠
 
-## :electron: Here you can find some useful console applications written in C, C++ and NASM for Linux OS :electron:
+## :electron: Here you can find some useful console applications written in RUST, C, C++ and NASM for Linux OS :electron:
 
 👩‍💻 Some apps are currently in development ⚡
 
