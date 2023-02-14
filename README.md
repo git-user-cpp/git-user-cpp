@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 🎓 I have experience in creating primitive databases in C++ and creating various console applications for Linux OS
 
-👩‍💻 I’m currently working on my console programs, which will be published soon
+👩‍💻 I’ve been currently working on my console programs, which will be published soon
 
 
 <!--
