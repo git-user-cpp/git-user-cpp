@@ -21,9 +21,12 @@ Here are some ideas to get you started:
 ![Screenshot_2023-02-11_15-12-07](https://user-images.githubusercontent.com/61907955/218259962-5962ed0c-d46c-4e51-a703-a07f656374f7.png)
 ![Screenshot_2023-02-11_15-10-48](https://user-images.githubusercontent.com/61907955/218259960-b569ae60-6339-4a72-b89d-99bf03910096.png)
 ![Screenshot_2023-02-11_15-11-30](https://user-images.githubusercontent.com/61907955/218259961-e46e4fbc-ae82-4d33-9a7e-e28226002495.png)
-##
+
+---
 
 👩‍💻 Some apps are currently in development ⚡
+
+---
 
 ## 🧐 About me
 
@@ -35,6 +38,7 @@ Here are some ideas to get you started:
 
 👩‍💻 I’ve been currently working on my console programs, which will be published soon
 
+---
 
 <!--
 ## 💪 My goals
