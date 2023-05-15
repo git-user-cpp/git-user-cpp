@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 🌠 ***Welcome to the space for Linux users*** 🌠
 
 ## :electron: Here you can find some useful console applications written in Rust 🦀, C, C++ and NASM for Linux OS :electron:
-![218259962-5962ed0c-d46c-4e51-a703-a07f656374f7](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/690647bc-fc49-447d-8ace-664b836450d9)
-![218259960-b569ae60-6339-4a72-b89d-99bf03910096](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/78e89d0a-3b7c-4f6f-9bb2-87cdb930ec3d)
-![218259961-e46e4fbc-ae82-4d33-9a7e-e28226002495](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/9c2f7017-0462-40cf-8f13-8508947f6b44)
+![rust](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/eba3333b-aa2c-4e5d-b565-ec05c007c84f)
+![cpp](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/1ca838e7-53ef-47a2-a6cb-27925ae40325)
+![c](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/79fc0f6c-7957-4740-8a0b-83eef6661d3a)
 
 ---
 
