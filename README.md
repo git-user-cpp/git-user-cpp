@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![rust](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/fad74ac5-bf14-45f4-a20f-76624dac9ef6)
 ![java](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/b4d14bdb-9044-4da7-bbfc-0757f52b4e04)
 
-![linux](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/7d6e9581-3096-4d51-a5c4-944c9369edcb)
+![linux](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/159921da-1e21-4415-abf1-66cbfb76f8d6)
 ![vim](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/d216b733-e244-40f3-8bca-889f22fd551e)
 ![visual-studio-code](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/6471c995-12bb-43e6-84ae-361c49d34f1e)
 ![IntelliJ_IDEA_Icon](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/c8cf3b46-de08-4394-9765-5a54c01c5dd2)
