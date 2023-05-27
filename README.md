@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ---
 ## My codewars 📈
 
-![codewars](https://www.codewars.com/users/git-user-cpp/badges/small)
+![codewars](https://www.codewars.com/users/git-user-cpp/badges/large)
 ---
 
 👩‍💻 Some apps are currently in development ⚡
