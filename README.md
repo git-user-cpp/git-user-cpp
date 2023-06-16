@@ -30,9 +30,10 @@ Here are some ideas to get you started:
 ![IntelliJ_IDEA_Icon](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/c8cf3b46-de08-4394-9765-5a54c01c5dd2)
 
 ---
-## My codewars 📈
+## My projects 📈
 
-![codewars](https://www.codewars.com/users/git-user-cpp/badges/large)
+![FiDeus logo(1)](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/3eb6a65e-143b-4bc7-b44d-9507e0021591)
+
 ---
 
 👩‍💻 Some apps are currently in development ⚡
