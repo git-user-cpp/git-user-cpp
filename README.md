@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ---
 
-👩‍💻 Some apps are currently in development ⚡
+👩‍💻 Some projects are currently in development ⚡
 
 ---
 
@@ -44,25 +44,12 @@ Here are some ideas to get you started:
 
 🛰️ I love science and everything related to it.
 
-✌️ I have been doing programming for about 3 years, trying various technologies
+✌️ I have been doing programming for about 4 years, trying various technologies
 
-🎓 I have experience in creating primitive databases in C++ and creating various console applications for Linux OS
-
-👩‍💻 I’ve been currently working on my console programs, which will be published soon
-
----
+🎓 I have experience in creating desktop apps in Rust, primitive databases in C++ and various console applications for Linux OS
 
 <!--
-## 💪 My goals
-
-- [x] Enter the university
-- [ ] Learn the basics of C, C++, NASM
-- [ ] Learn OOP and ADT
-- [ ] Learn C++ STL
-- [x] Make a few small projects in C++
-- [x] Make a few small projects in C
-- [ ] Try embedded systems programming
-- [ ] Find a job
-- [ ] Get professional programming experience
-- [ ] Create a useful large open source project for Linux OS
+👩‍💻 I’ve been currently working on my console programs, which will be published soon
 -->
+
+---
