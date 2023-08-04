@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ---
 ## My projects 📈
 
-![FiDeus logo(1)](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/3eb6a65e-143b-4bc7-b44d-9507e0021591)
+![logo_round_mini](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/ecb805a1-e1ff-4130-ad98-47859cbcbb45)
 
 ---
 
