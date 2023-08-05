@@ -12,7 +12,6 @@
 
 ### ⬇️ My Stack ⬇️
 
-![c](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/443230ca-4e41-4961-9938-312cc397cd39)
 ![cpp](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/83c7f658-e14d-4ad3-a986-1c5a700901ba)
 ![rust](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/65141056-ebe1-44c7-bfaf-76629721d8c6)
 ![java](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/020df16a-77d1-4c65-87c5-09e03d5be37e)
