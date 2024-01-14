@@ -33,7 +33,8 @@
 ---
 ### 📈 My Projects 📈
 
-![fideus_logo](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/ecb805a1-e1ff-4130-ad98-47859cbcbb45) ![logo_circle_150px](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/87e181f6-ea14-415a-a054-7aed97565272)
+![fideus_logo](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/ecb805a1-e1ff-4130-ad98-47859cbcbb45) ![logo_circle_150px](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/87e181f6-ea14-415a-a054-7aed97565272) ![logo_150px](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/c9bd6cef-7c8d-4d64-accf-69e7fec4babc)
+
 
 
 ---
