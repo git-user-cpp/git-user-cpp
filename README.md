@@ -23,7 +23,7 @@
 
 ![linux](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/047416d2-bea6-43b2-8acf-97b62cef900c)
 ![kali](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/23b80e8e-6d9d-455b-84a9-b0be43100fd5)
-![ubuntu](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/f7c7ba29-b591-40f8-9945-96d76fc7b6d1)
+![archlinux](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/fe8ae250-013b-4f8a-9423-a17474f7b063)
 ![vim](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/6e63f9a2-598d-45f3-87a2-c67d35bfac2c)
 ![vscode](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/507e30a0-b3b6-475d-a8da-d206cbcba557)
 ![intellijidea](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/8c43190c-bc8e-49a7-abe6-2ed596d56719)
