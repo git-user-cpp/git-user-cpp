@@ -31,8 +31,11 @@
 ![postgresql](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/2b2349b7-ece4-483e-b768-d65c36b02ecf)
 
 ---
-### 📈 My Projects 📈
+### 📈 My Stats 📈
 
-![fideus_logo](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/ecb805a1-e1ff-4130-ad98-47859cbcbb45) ![logo_circle_150px](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/87e181f6-ea14-415a-a054-7aed97565272) ![logo150](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/23df65c7-13d7-4220-9ba7-97c2a56b7075)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=git-user-cpp&theme=tokyonight&hide_rank=true"></img>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-user-cpp&theme=tokyonight"></img>
+</div>
 
 ---
