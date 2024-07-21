@@ -12,7 +12,7 @@
 
 ### ⬇️ My Stack ⬇️
 
-![cpp](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/83c7f658-e14d-4ad3-a986-1c5a700901ba)
+![c](https://github.com/user-attachments/assets/fe7bc908-32ec-4af1-99b0-30c73f77c912)
 ![rust](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/65141056-ebe1-44c7-bfaf-76629721d8c6)
 ![java](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/020df16a-77d1-4c65-87c5-09e03d5be37e)
 ![javascript](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/6b15d02a-3be6-4fd8-a2b2-b32cf1d8baed)
