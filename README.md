@@ -1,6 +1,6 @@
 ---
 
-### 😎 Hi There, I MOVED TO GITLAB https://gitlab.com/git-user-cpp 🙂
+### 😎 Hi There 🙂
 
 ---
 
