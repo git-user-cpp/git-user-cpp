@@ -6,7 +6,7 @@
 
 ### 🌠 ***Welcome To The Space For Linux Users*** 🌠
 
-### :electron: Here You Can Find Some Useful Applications For Linux OS :electron:
+### :electron: Here You Can Find Some Useful Applications For GNU/Linux OS :electron:
 
 ---
 
