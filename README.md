@@ -1,3 +1,30 @@
+<h3 align="center">⬇️ I Enjoy ⬇️</h3>
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="70" alt="linux logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="70" alt="c logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="70" alt="rust logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="70" alt="vim logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70" alt="git logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="70" alt="gitlab logo"  />
+</div>
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=git-user-cpp&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="110" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=git-user-cpp&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="110" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=git-user-cpp&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="110" alt="languages graph"  />
+</div>
+
+<!--
 ---
 
 ### 😎 Hi There 🙂
@@ -10,7 +37,9 @@
 
 ---
 
+<div align="center">
 ### ⬇️ I Enjoy ⬇️
+</div>
 
 ![c](https://github.com/user-attachments/assets/fe7bc908-32ec-4af1-99b0-30c73f77c912)
 ![rust](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/65141056-ebe1-44c7-bfaf-76629721d8c6)
@@ -19,15 +48,4 @@
 ![vim](https://github.com/git-user-cpp/git-user-cpp/assets/61907955/6e63f9a2-598d-45f3-87a2-c67d35bfac2c)
 
 ---
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=git-user-cpp&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="130" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=git-user-cpp&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="130" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=git-user-cpp&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="130" alt="languages graph"  />
-</div>
-
-###
-
----
+-->
