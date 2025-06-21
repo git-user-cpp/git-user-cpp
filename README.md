@@ -28,7 +28,7 @@
   <img src="https://streak-stats.demolab.com?user=git-user-cpp&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="140" alt="streak graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=git-user-cpp&" alt="git-user-cpp" />
   -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=git-user-cpp&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="140" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=git-user-cpp&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true" height="140" alt="languages graph"  />
 </div>
 
 <!--
