@@ -1,4 +1,10 @@
 <div align="center">
+  I'm an embedded engineer from Ukraine, slinging C, C++, and Rust to make hardware dance to my tune. I live and breathe Linux — it's the only OS that respects my freedom. If it's not open, it's not worth my time. Windows? Proprietary garbage can stay in the trash where it belongs. I'm all-in on GNU and open-source everything. Before diving into the beauty of low-level code, I taught English, but now I teach silicon to behave.
+</div>
+
+<br clear="both">
+
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=git-user-cpp.git-user-cpp&left_color=navy&right_color=crimson&left_text=Profile%20Visitors"  />
 </div>
 
