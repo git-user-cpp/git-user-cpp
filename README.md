@@ -11,9 +11,9 @@
 -->
 
 <div align="center">
-  <a href="mailto:amnewman@duck.com" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/EMAIL-navy?style=flat-square&logo=gmail&logoColor=red"/></a>
-  <a href="https://github.com/gnulintech" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/GNULINTECH-navy?style=flat-square&logo=github&logoColor=red"></a>
-  <a href="https://git-user-cpp.bearblog.dev/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/BEARBLOG-navy?style=flat-square&logo=pinboard&logoColor=red"/></a>
+  <a href="mailto:amnewman@duck.com"><img alt="Static Badge" src="https://img.shields.io/badge/EMAIL-navy?style=flat-square&logo=gmail&logoColor=red"/></a>
+  <a href="https://github.com/glcomtech"><img alt="Static Badge" src="https://img.shields.io/badge/GLCOMTECH-navy?style=flat-square&logo=github&logoColor=red"></a>
+  <a href="https://git-user-cpp.bearblog.dev/"><img alt="Static Badge" src="https://img.shields.io/badge/BEARBLOG-navy?style=flat-square&logo=pinboard&logoColor=red"/></a>
 </div>
 
 <h1 align="center">⬇️ I Enjoy ⬇️</h1>
