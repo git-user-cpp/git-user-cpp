@@ -3,14 +3,16 @@
 </div>
 
 <br clear="both">
-
+<!--
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=git-user-cpp.git-user-cpp&left_color=navy&right_color=crimson&left_text=Profile%20Visitors"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=git-user-cpp.git-user-cpp&left_color=navy&right_color=crimson&left_text=Profile%20Visitors"/>
 </div>
+<br clear="both">
+-->
 
 <div align="center">
   <a href="amnewman@duck.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"/>
   </a>
 </div>
 
