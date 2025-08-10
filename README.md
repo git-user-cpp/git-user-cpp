@@ -11,9 +11,8 @@
 -->
 
 <div align="center">
-  <a href="amnewman@duck.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"/>
-  </a>
+  <a href="amnewman@duck.com" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/EMAIL-navy?style=flat-square&logo=gmail&logoColor=red"/></a>
+  <a href="https://git-user-cpp.bearblog.dev/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/BEARBLOG-navy?style=flat-square&logo=pinboard&logoColor=red"/></a>
 </div>
 
 <h1 align="center">⬇️ I Enjoy ⬇️</h1>
