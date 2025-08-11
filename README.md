@@ -16,7 +16,9 @@
   <a href="https://git-user-cpp.bearblog.dev/"><img alt="Static Badge" src="https://img.shields.io/badge/BEARBLOG-navy?style=flat-square&logo=pinboard&logoColor=red"/></a>
 </div>
 
-<h1 align="center">⬇️ I Enjoy ⬇️</h1>
+---
+
+<h3 align="center">⬇️ I Enjoy ⬇️</h3>
 
 <br clear="both">
 
