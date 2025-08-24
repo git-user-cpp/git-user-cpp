@@ -3,12 +3,6 @@
 </div>
 
 <br clear="both">
-<!--
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=git-user-cpp.git-user-cpp&left_color=navy&right_color=crimson&left_text=Profile%20Visitors"/>
-</div>
-<br clear="both">
--->
 
 <div align="center">
   <a href="mailto:amnewman@duck.com"><img alt="Static Badge" src="https://img.shields.io/badge/EMAIL-navy?style=flat-square&logo=gmail&logoColor=red"/></a>
@@ -34,12 +28,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="90" alt="vim logo"/>
   <img width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="90" alt="git logo"/>
-</div>
-
-<br clear="both">
-
----
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=git-user-cpp&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
